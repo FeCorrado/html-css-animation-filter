@@ -150,7 +150,7 @@
 }
 
 .ex-12-top-white:hover{
-    margin-left: 80%;
+    margin-left: 55%;
     transition: all 2s;
 }
 
@@ -164,7 +164,7 @@
     transition: all 3s;
 }
 
-.ex-12-botton-white:hover{
-    margin-right: 80%;
+.ex-12-bottom-white:hover{
+    margin-right: 45%;
     transition: all 2s;
 }
